@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_OWNER: azizmeddeb  
+  IMAGE_OWNER: amineGhazweni  
 
 jobs:
   build-and-push:

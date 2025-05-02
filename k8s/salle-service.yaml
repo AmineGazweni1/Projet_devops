@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: salle-service
-          image: azizmeddeb/projet_devops-salle-service:latest  
+          image: amineGhazweni/projet_devops-salle-service:latest  
           ports:
             - containerPort: 5002  
           env:

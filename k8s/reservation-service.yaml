@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: reservation-service
-          image: azizmeddeb/reservation-service:latest  
+          image: amineGhazweni/reservation-service:latest  
           ports:
             - containerPort: 5003
           env:

@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: user-service
-          image: azizmeddeb/projet_devops-user-service:latest 
+          image: amineGhazweni/projet_devops-user-service:latest 
           ports:
             - containerPort: 5001 
           env:
